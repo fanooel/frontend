@@ -1,1 +1,1 @@
-# Repozytorium z projektami stron www
+# Repozytorium strony www dla projektu mobile
