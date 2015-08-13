@@ -1,0 +1,49 @@
+﻿body { 
+  position:relative;
+  font-weight:bold;
+  
+ 
+}
+#home {padding-top:70px;height:500px;color: #ee5c26; background-color: #fff;
+margin-top: 100px;}
+#project {padding-top:50px;height:500px;color: #fff; background-color: #8ec643;}
+#sign {padding-top:50px;height:500px;color: #fff; background-color: #673ab7;}
+#download {padding-top:50px;height:500px;color: #ee5c26; background-color: #F2F7F9;}
+#movie {padding-top:50px;height:500px;color: #fff; background-color: #B4D944;}
+
+
+
+#myNavbar {
+  margin-top: 5px;
+}
+
+.navbar-default {
+  background-color: white;
+  border-color: #e7e7e7;
+}
+.navbar-default .navbar-brand {
+  color: #777;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+  color: #ee5c26;
+  background-color: transparent;
+}
+
+.nav-pills > li.active > a,
+
+.nav-pills > li.active > a:focus {
+  color: #fff;
+  background-color: #ee5c26;
+}
+.nav-pills > li.active > a:hover { background-color:#dd4c30;}
+
+.paper {opacity:20%}
+
+footer {
+  height:100px;
+  padding: 30px;
+  color: #fff;
+  background-color: #333;
+  text-align: center;
+}
